@@ -1,8 +1,5 @@
 
 hello world
 hello India
-<<<<<<< HEAD
 hello bangal
-=======
 hello pak
->>>>>>> 4da2ce9fb0e3dd0f60deab1fb4a4cab5231f5197
